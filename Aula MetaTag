@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Luiz">
+    <meta name="keywords" content="html,selva,natureza,fauna">
+    <meta name="description" content="Essa selva é conhecida...">
 
+    <title>Document</title>
+</head>
+<body>
+    <h1><p>imagem da selva</p></h1>
+    <a href="https://www.google.com">Selva</a>
+    <img width="20%" height="auto" src="download (1).jpg" alt="imagem.selva">
+</body>
+</html>
