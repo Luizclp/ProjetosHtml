@@ -1,0 +1,21 @@
+[
+    
+{
+    "nome" : "LuizCarlos",
+    "nota1Bim":8,
+    "nota2Bim":7,
+    "turma":"ESNB",
+    "periodo":"setimo periodo",
+    "aprovado":true
+},
+
+{
+    "nome" : "Leticia",
+    "nota1Bim":9,
+    "nota2Bim":8,
+    "turma":"ESCN",
+    "periodo":"terceiro periodo",
+    "aprovado":true
+}
+
+]
